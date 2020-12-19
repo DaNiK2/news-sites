@@ -120,4 +120,8 @@ header {
     width: 70%;
     height: 1000px;
     border: 1px solid black;
-}   
+}
+
+.Video {
+  margin-top: 100px;
+}
